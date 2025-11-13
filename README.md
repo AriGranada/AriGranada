@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AriGranada/AriGranada/main//banner.png" alt="Banner de AriGranada" width="1000">
+</p>
 <!--
 **AriGranada/AriGranada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
